@@ -352,10 +352,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"D:/Editor1/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Editor1/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/Collectables/CollectableControl.cs"
 "Assets/Scripts/Collectables/CollectCoin.cs"
+"Assets/Scripts/Collectables/LevelDistance.cs"
 "Assets/Scripts/Collectables/RotateObject.cs"
+"Assets/Scripts/environmrnt/EndRunSequences.cs"
 "Assets/Scripts/environmrnt/GenretLevel.cs"
 "Assets/Scripts/environmrnt/LevelBoundry.cs"
+"Assets/Scripts/environmrnt/LevelStarter.cs"
+"Assets/Scripts/environmrnt/ObstacleCollision.cs"
 "Assets/Scripts/player/playerMove.cs"
 -langversion:9.0
 
