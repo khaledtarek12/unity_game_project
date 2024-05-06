@@ -66,12 +66,14 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\environmrnt\EndRunSequences.cs" />
     <Compile Include="Assets\Scripts\environmrnt\LevelStarter.cs" />
+    <Compile Include="Assets\Scripts\Menu\MainMenuFunction.cs" />
     <Compile Include="Assets\Scripts\player\playerMove.cs" />
     <Compile Include="Assets\Scripts\Collectables\CollectCoin.cs" />
     <Compile Include="Assets\Scripts\environmrnt\ObstacleCollision.cs" />
     <Compile Include="Assets\Scripts\Collectables\CollectableControl.cs" />
     <Compile Include="Assets\Scripts\Collectables\RotateObject.cs" />
     <Compile Include="Assets\Scripts\Collectables\LevelDistance.cs" />
+    <Compile Include="Assets\Scripts\environmrnt\Destroyer.cs" />
     <Compile Include="Assets\Scripts\environmrnt\GenretLevel.cs" />
     <Compile Include="Assets\Scripts\environmrnt\LevelBoundry.cs" />
   </ItemGroup>

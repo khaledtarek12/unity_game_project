@@ -7,7 +7,7 @@ public class GenretLevel : MonoBehaviour
     public GameObject[] section;
     public int zpos = 46;
     public bool creatingSection = false;
-public int secNumber;
+    public int secNumber;
 
     // Start is called before the first frame update
     void Start()
@@ -29,7 +29,7 @@ public int secNumber;
         secNumber = Random.Range(0 , 3);
         Instantiate(section[secNumber] , new Vector3(0 , 0 , zpos) , Quaternion.identity);
         zpos += 46;
-        yield return new WaitForSeconds(2);
+        yield return new WaitForSeconds(3);
         creatingSection = false;
     }
 }
