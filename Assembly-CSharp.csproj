@@ -76,6 +76,7 @@
     <Compile Include="Assets\Scripts\environmrnt\Destroyer.cs" />
     <Compile Include="Assets\Scripts\environmrnt\GenretLevel.cs" />
     <Compile Include="Assets\Scripts\environmrnt\LevelBoundry.cs" />
+    <Compile Include="Assets\Scripts\Menu\NextLevel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

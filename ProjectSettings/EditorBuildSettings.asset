@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DesertRunnerLV1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/DesertRunnerLeve2.unity
+    guid: 2a07c17705b64b44a91701719a98684b
   m_configObjects: {}

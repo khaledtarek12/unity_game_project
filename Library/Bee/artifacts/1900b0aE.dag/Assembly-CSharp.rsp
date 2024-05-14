@@ -363,6 +363,7 @@
 "Assets/Scripts/environmrnt/LevelStarter.cs"
 "Assets/Scripts/environmrnt/ObstacleCollision.cs"
 "Assets/Scripts/Menu/MainMenuFunction.cs"
+"Assets/Scripts/Menu/NextLevel.cs"
 "Assets/Scripts/player/playerMove.cs"
 -langversion:9.0
 
